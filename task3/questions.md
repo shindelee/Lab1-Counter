@@ -1,0 +1,1 @@
+(Q1) For both steps 1 and 2, it seems like the presence of vbdSetMode(1) is insignificant. Why is that so?
